@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "ARDUINO=10800"
+            ],
+            "includePath": [
+                "C:\\Users\\fengx\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\fengx\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**",
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "${workspaceRoot}",
+                "C:\\\\Program Files (x86)\\\\Arduino\\\\hardware\\\\tools\\\\**",
+                "C:\\\\Program Files (x86)\\\\Arduino\\\\libraries\\\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-gcc.exe"
+        }
+    ],
+    "version": 4
+}

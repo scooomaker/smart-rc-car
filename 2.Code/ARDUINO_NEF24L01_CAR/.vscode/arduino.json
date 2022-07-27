@@ -1,0 +1,7 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:mega",
+    "port": "COM5",
+    "sketch": "ARDUINO_NEF24L01_CAR.ino",
+    "configuration": "cpu=atmega2560"
+}
